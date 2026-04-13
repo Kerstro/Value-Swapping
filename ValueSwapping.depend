@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\admin\downloads\c prog\c 2\valueswapping\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1763565934 source:c:\users\admin\downloads\c prog\c 2\valueswapping\valueswapping.c
+	<stdio.h>
+
